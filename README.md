@@ -1,4 +1,4 @@
-# Janatha Hotel - Food Order, Stock, and Daily Analytics System
+# Hotel - Food Order, Stock, and Daily Analytics System
 
 A comprehensive Point of Sale (POS) system for Janatha Hotel food ordering, stock management, and daily analytics. Built with React, Vite, TypeScript, Zustand, Axios, and Socket.IO.
 
